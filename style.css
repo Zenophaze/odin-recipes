@@ -19,7 +19,7 @@ h4 {
     background-color: #ac76df;
 }
 
-.recipes {
+.recipes li {
     list-style: none;
     display: inline-block;
     margin: 20px;
@@ -29,4 +29,7 @@ button {
     height: 40px;
     width: 180px;
     background-color: aqua;
+    border-radius: 10px;
+    border-color: black;
+    font-weight: bold;
 }
