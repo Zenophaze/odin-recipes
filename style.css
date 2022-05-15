@@ -22,7 +22,7 @@ h4 {
 .recipes,
 li {
     list-style: none;
-    display: inline-block;
+    display: inline;
     margin: 20px;
 }
 
