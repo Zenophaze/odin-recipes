@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 h1 {
     text-align: center;
     font-size: 36px;
@@ -15,7 +19,15 @@ h4 {
     background-color: #ac76df;
 }
 
-.recipes {
-    font-size: 28px;
-    background-color: black;
+.recipes,
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+button {
+    height: 40px;
+    width: 180px;
+    background-color: aqua;
 }
