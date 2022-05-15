@@ -13,12 +13,19 @@ h1 {
     text-decoration: underline;
 }
 
+h2,
 h4 {
     background-color: #8957b8 ;
 }
 
+.ingredients *{
+    background-color: #cea7f3;
+}
+
 .ingredients {
-    background-color: #ac76df;
+    border: dotted 5px green;
+    display: flex;
+    background-color: #cea7f3;
 }
 
 .recipes li {
@@ -27,17 +34,17 @@ h4 {
     gap: 10px;
 }
 
-.recipes {
+.recipes *{
     display: flex;
-    justify-content: center;
-    padding: 0px;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 button {
-    height: 40px;
-    width: 180px;
+    padding: 5px;
     background-color: aqua;
     border-radius: 10px;
     border-color: black;
     font-weight: bold;
+    font-size: 20px;
 }
