@@ -19,10 +19,9 @@ h4 {
     background-color: #ac76df;
 }
 
-.recipes,
-li {
+.recipes {
     list-style: none;
-    display: inline;
+    display: inline-block;
     margin: 20px;
 }
 
