@@ -49,3 +49,12 @@ a {
     font-size: 20px;
     border: solid 2px;
 }
+
+a:hover{
+    background-color: #2a4f86;
+}
+
+a:active{
+    background-color: aqua;
+    color: black;
+}
