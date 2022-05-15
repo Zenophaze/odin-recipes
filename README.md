@@ -1,3 +1,3 @@
 # odin-recipes
-Making a recipe page for Odin
-See https://zenophaze.github.io/odin-recipes/ for pushed changes
+<p>Making a recipe page for Odin</p>
+<p>See https://zenophaze.github.io/odin-recipes/ for pushed changes</p>
